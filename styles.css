@@ -1,0 +1,32 @@
+.myName {
+	color: blue;
+}
+body {
+	background: black;
+}
+.Kristen {
+	color: green;
+}
+.postcard {
+	background: white;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
+* {
+	border: 1px dashed red;
+	min-height: 10px;
+}
+.postcard-header {
+	display: flex;
+}
+img {
+	max-height: 50px;
+	margin-left: auto;
+}
+.postcard-body {
+	display: flex;
+}
+.w-50 {
+	width: 50%;
+}
