@@ -13,10 +13,7 @@ body {
 	height: 300px;
 	margin: auto;
 }
-* {
-	border: 1px dashed red;
-	min-height: 10px;
-}
+
 .postcard-header {
 	display: flex;
 }
@@ -29,4 +26,16 @@ img {
 }
 .w-50 {
 	width: 50%;
+}
+.postcard-footer {
+	text-align: center;
+}
+h1 {
+	display: inline;
+}
+.body-left p {
+	margin-top: 0px;
+}
+.body-right {
+	padding-left: 10px;
 }
